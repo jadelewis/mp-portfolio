@@ -173,7 +173,7 @@ font-family: 'Comfortaa', cursive;;
 header.masthead {
   text-align: center;
   color: #b789ce;
-  background-image: sc;
+  background-image: url("../img/apples-header2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
