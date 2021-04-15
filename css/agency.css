@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #b789ce;
+  color: #2df14e;
 }
 
 a:hover {
-  color: ##b789ce;
+  color: #2df14e;
 }
 
 .text-primary {
-  color: ##b789ce !important;
+  color: ##2df14e !important;
 }
 
 h1,
@@ -33,6 +33,11 @@ h5,
 h6 {
   font-weight: 700;
   font-family: 'Comfortaa', cursive;;
+}
+
+blockquote {
+  font-style: italic;
+  color: #482f87;
 }
 
 .page-section {
@@ -123,12 +128,12 @@ font-family: 'Comfortaa', cursive;  ;
 }
 
 #mainNav .navbar-brand {
-  color: #b789ce;
+  color: #2cdc4a;
   font-family: 'Kaushan script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: ##6c757d;
+  color: #6c757d;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -136,7 +141,7 @@ font-family: 'Comfortaa', cursive;  ;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: #b789ce;
+  color: #2cdc4a;
 font-family: 'Comfortaa', cursive;;
 }
 
@@ -172,7 +177,7 @@ font-family: 'Comfortaa', cursive;;
 
 header.masthead {
   text-align: center;
-  color: #b789ce;
+  color: #2cdc4a;
   background-image: url("../img/apples-header2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
